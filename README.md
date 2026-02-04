@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 🌍 Planets Slider React App
+
+A React-based application that displays planets using a carousel interface.
+The app is built with reusable components and uses React Slick for smooth sliding.
+
+### ✨ Features
+- Carousel slider using React Slick
+- Reusable PlanetItem component
+- Clean and modular component structure
+- Responsive UI
+
+### 🛠️ Tech Stack
+- React
+- JavaScript (ES6)
+- CSS3
+- React Slick
+
+### 🚀 Getting Started
+```bash
+npm install
+npm start
+
